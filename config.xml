@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.0" id="com.koma.testealura">
+	<name>Só de cenoura</name>
+	<description>
+		Menu do restaurante Só de Cenoura
+	</description>
+	<author href="http://koma.com.br" email="contato@koma.com.br">
+		Koma!
+	</author>
+</widget>
